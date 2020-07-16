@@ -1,0 +1,11 @@
+#HeaderBarDiv{
+    display: inline-block;
+}
+#HeaderBar{
+    color: black;
+    border-style: solid;
+    text-align: center;
+}
+.Center{
+    text-align: center;
+}
