@@ -6,6 +6,17 @@
     border-style: solid;
     text-align: center;
 }
-.Center{
+.Title{
     text-align: center;
+}
+.WelcomeText{
+    text-align: center;
+    border-color: yellow;
+    border-style: solid;
+    background-color: lightgrey;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#nickAge{
+    color: red;
 }
